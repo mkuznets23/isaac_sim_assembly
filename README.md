@@ -1,4 +1,4 @@
-# IsaacSimAssembly
+# Isaac Sim Assembly
 
 Used NVIDIA Isaac Sim to develop a physics-accurate quad robot workcell that assembles a smaller robot consisting of 10 parts. 
 
